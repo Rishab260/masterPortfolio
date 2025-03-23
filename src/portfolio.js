@@ -360,11 +360,11 @@ const projectsHeader = {
   avatar_image_path: "projects_image.svg",
 };
 
-const publicationsHeader = {
-  title: "Publications",
-  description: "Some of my published Articles, Blogs and Research.",
-  avatar_image_path: "projects_image.svg",
-};
+// const publicationsHeader = {
+//   title: "Publications",
+//   description: "Some of my published Articles, Blogs and Research.",
+//   avatar_image_path: "projects_image.svg",
+// };
 
 // const publications = {
 //   data: [
