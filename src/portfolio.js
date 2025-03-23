@@ -423,6 +423,5 @@ export {
   certifications,
   experience,
   projectsHeader,
-  publicationsHeader,
   contactPageData,
 };
